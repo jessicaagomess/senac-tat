@@ -50,7 +50,7 @@ Exemplo: echo "senac" vai repetir "senac".
 touch = Altera a hora e a data do arquivo (se o arquivo não existir, ele o cria).
 
 Para colocar um arquivo de texto dentro da pasta, escreva:
-echo "Matheus Pinheiro" > nome-do-arquivo.txt
+echo "Jessica Quadro" > nome-do-arquivo.txt
 
 Caminhos:
 Caminho absoluto
